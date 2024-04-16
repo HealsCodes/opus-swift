@@ -1,0 +1,3 @@
+[submodule "opus-native"]
+	path = Sources/opus-swift/native
+	url = https://gitlab.xiph.org/xiph/opus.git
